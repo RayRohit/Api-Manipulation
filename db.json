@@ -1,0 +1,17 @@
+{
+  "Users": [
+    {
+      "fname": "Ice Cream",
+      "email": "icecream@gmail.com",
+      "phone": "9988998899",
+      "id": 1
+    },
+    {
+      "fname": "Shakes",
+      "email": "Shakes@gmail.com",
+      "phone": "9988998899",
+      "id": 3
+    }
+  ],
+  "Deleted": []
+}
